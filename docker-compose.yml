@@ -1,0 +1,5 @@
+blender:
+        build: .
+        command: /blender/blender -b master.blend --addon netrender
+        ports:
+                - "8000:8000"
