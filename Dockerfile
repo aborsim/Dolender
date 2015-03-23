@@ -1,5 +1,6 @@
 FROM ubuntu
 MAINTAINER aborsim
+EXPOSE 8000
 
 RUN apt-get update && \
     apt-get -y install bzip2 libgl1-mesa-dev libglu1-mesa libxi6 && \
