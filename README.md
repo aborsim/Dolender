@@ -2,4 +2,4 @@
 
 Usage
 =====
-To run the container, cl a simple  `docker run  aobrsim/netblender` will do.
+To run the container, cl a simple  `docker run  aborsim/netblender` will do.
